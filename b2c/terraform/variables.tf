@@ -1,9 +1,9 @@
 variable "rg_name" {
   type      = string
-  default   = ""
+  default   = "ifrc-test-org-rg"
 }
 
 variable "location" {
   type      = string
-  default   = "northeurope"
+  default   = "Europe"
 }
