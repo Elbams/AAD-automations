@@ -1,13 +1,13 @@
 {
    "users": [
     {
-      "displayName": "Heidi Gamemasterova",
-      "email": "heidi.gamemaster@alwayson.demo",
+      "displayName": "Olu Testing",
+      "email": "Olu1.Sanusi1@alwayson.demo",
       "gameMaster": true
     },
     {
-      "displayName": "Thomas Smoke-Tester",
-      "email": "thomas.smoketester@alwayson.demo",
+      "displayName": "Elbams Geneva",
+      "email": "Elbams.Geneva@alwayson.demo",
       "gameMaster": false
     }
   ]
